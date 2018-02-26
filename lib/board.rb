@@ -1,1 +1,1 @@
-board = [" Top left", "Top middle", "Top right", "Middle left", "Middle middle", "Middle Right", "Bottom left", "Bottom middle", "Bottom right"]
+board = ["1", "2", "3", "4", "5", "6", "B7", "8", "9"]
